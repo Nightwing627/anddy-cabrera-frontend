@@ -1,0 +1,11 @@
+.rti--container {
+  --rti-bg: #fff !important;
+  --rti-border: #ccc !important;
+  --rti-font: '10px' !important;
+  --rti-main: #3182ce !important;
+  --rti-radius: 0.375rem !important;
+  --rti-s: 0.5rem !important; /* spacing */
+  --rti-tag: #edf2f7 !important;
+  --rti-tag-remove: #e53e3e !important;
+}
+
